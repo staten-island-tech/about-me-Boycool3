@@ -8,7 +8,14 @@ body {
   background-color: antiquewhite;
 }
 h1 {
-  font-family: 'Sina Nova W01 Regular';
+  font-family: 'Sina Nova Regular', 'comic sans';
+  font-size: 30px;
     text-align: center;
     margin: 45px;
+}
+p {
+  font-size: 18px;
+}
+li {
+  font-size: 18px;
 }
